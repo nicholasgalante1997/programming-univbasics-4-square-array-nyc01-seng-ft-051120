@@ -1,6 +1,6 @@
 def square_array(array)
 
-numbers = [1, 2, 3, 4]
+numbers = [1, 2, 3]
 squared_numbers = []
 
 length = numbers.length #ok so far
