@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array(array) #This almost works. Stick with it. 
 
 numbers = [1, 2, 3]
 squared_numbers = []
