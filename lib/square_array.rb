@@ -7,7 +7,7 @@ length = numbers.length #ok so far
 counter = 0 
 
 while counter < length 
-squared_numbers << (counter + 1)*(counter + 1)
+squared_numbers << (numbers[counter] * numbers[counter])
 counter += 1 
 end 
 
